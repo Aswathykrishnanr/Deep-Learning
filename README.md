@@ -4,7 +4,7 @@ This repository contains a collection of projects and experiments I built while 
 
 While learning these topics, I experimented with several concepts such as neural networks, object detection, face recognition, OCR, and speech recognition.
 
----
+
 
 ## Repository Contents
 
@@ -17,18 +17,19 @@ While learning these topics, I experimented with several concepts such as neural
 * **MediaPipe** – Experiments with MediaPipe for real-time face and hand tracking
 * **YOLO** – Object detection experiments using YOLO models
 
----
+
 
 ## Technologies Used
 
 * Python
 * OpenCV
+* OCR
 * NumPy
 * MediaPipe
 * Deep Learning frameworks and models
 * YOLO for object detection
 
----
+
 
 ## Purpose of This Repository
 
@@ -39,12 +40,4 @@ This repository is mainly created to:
 * Document my learning process
 * Maintain a collection of experiments and practice projects
 
----
 
-## Future Improvements
-
-Some things I plan to improve in the future:
-
-* Add explanations for each project
-* Provide details about datasets used
-* Add model performance results
