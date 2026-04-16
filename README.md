@@ -4,8 +4,6 @@ This repository contains a collection of projects and experiments I built while 
 
 While learning these topics, I experimented with several concepts such as neural networks, object detection, face recognition, OCR, and speech recognition.
 
-
-
 ## Repository Contents
 
 * **ANN** – Experiments with Artificial Neural Networks
@@ -16,8 +14,6 @@ While learning these topics, I experimented with several concepts such as neural
 * **Speech Recognition** – Converting spoken language into text
 * **MediaPipe** – Experiments with MediaPipe for real-time face and hand tracking
 * **YOLO** – Object detection experiments using YOLO models
-
-
 
 ## Technologies Used
 
@@ -34,7 +30,6 @@ While learning these topics, I experimented with several concepts such as neural
 ## Purpose of This Repository
 
 This repository is mainly created to:
-
 * Practice and understand deep learning concepts
 * Build small AI and computer vision applications
 * Document my learning process
